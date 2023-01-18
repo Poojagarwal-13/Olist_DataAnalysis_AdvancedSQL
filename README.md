@@ -11,9 +11,9 @@ In this project, we use advanced MySQL to gain insights from the Brazilian ecomm
 
 ### Directories Content
 
-1.	DataSet: Find the datasets here. These were downloaded from Kaggle and the format of ‘date’ was change where ever required. 
+1. DataSet: Find the datasets here. These were downloaded from Kaggle and the format of ‘date’ was change where ever required. 
 (Note: I haven’t used the geolocation dataset for this project. Thus, not uploading its data file. However, if you wish to, then you can download it from here:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_geolocation_dataset.csv )
 
-2.	olist_Load_Table_data: SQL file to create database and table, and load data in it.
-3.	 Olist_Analysis: SQL file to analyze the data and gain insights from it.
+2. olist_Load_Table_data: SQL file to create database and table, and load data in it.
+3. Olist_Analysis: SQL file to analyze the data and gain insights from it.
